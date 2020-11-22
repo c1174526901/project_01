@@ -1,0 +1,5 @@
+# 忽略test3.text这个文件
+test3.txt
+
+# 忽略test目录下的这个文件
+test/
